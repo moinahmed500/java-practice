@@ -14,4 +14,4 @@ console.log (firstName);
 var lastName = ("Ahmed");
 console.log (lastName);
 var fullName = ("firstName+lastName");
-console.log (firstName+lastName);
+console.log ("fullName");
